@@ -1,0 +1,11 @@
+# Directories
+node_modules/
+.idea/
+.vscode/
+build/
+lib/
+coverage/
+
+# Files
+.DS_STORE
+*.log*
